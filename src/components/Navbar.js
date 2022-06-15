@@ -34,13 +34,13 @@ const Navbar = () => {
       className='md:hidden z-10'
       onClick={handleClick}
     >
-      {!nav ? <FaBars /> : <FaTimes />}
+      {!nav ? <FaBars /> : <FaTimes className='text-black' />}
     </div>
 
 
 
     {/* Mobilemenu */}
-    <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[white] flex flex-col justify-center items-center'}>
+    <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[white] flex flex-col justify-center items-center text-black'}>
       <li className='py-6 text-4xl'>Home</li>
       <li className='py-6 text-4xl'>About</li>
       <li className='py-6 text-4xl'>Experience</li>
