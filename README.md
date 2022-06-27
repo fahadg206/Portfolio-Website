@@ -1,12 +1,13 @@
 General Information
 
-Responsive Personal Portfolio Website using Tailwind CSS. 
+Responsive Personal Portfolio Website using Tailwind CSS to display some of my work.
 
 Technologies Used
 
+React JS
+React Smooth Scroll
+JavaScript
 HTML
 CSS
-JavaScript
-React
 Tailwind CSS
 
