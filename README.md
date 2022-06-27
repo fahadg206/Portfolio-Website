@@ -1,4 +1,4 @@
-# H1General Information
+# General Information
 
 Responsive Personal Portfolio Website using Tailwind CSS to display some of my work.
 
