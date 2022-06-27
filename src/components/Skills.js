@@ -4,6 +4,7 @@ import githubImg from "../images/github.png";
 import cssImg from "../images/css.png";
 import htmlImg from "../images/html.png";
 import javascriptImg from "../images/Javscript.png";
+import typescriptImg from "../images/Typescript.png"
 import reduxImg from "../images/redux.png";
 
 const Skills = () => {
@@ -24,6 +25,10 @@ const Skills = () => {
           <div className='shadow-md shadow-[#ba30e8] hover:scale-110 duration-500'>
             <img className='w-20 mx-auto' src={cssImg} alt="CSS icon" />
             <p className='my-4'>CSS</p>
+          </div>
+          <div className='shadow-md shadow-[#ba30e8] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={typescriptImg} alt="JavaScript icon" />
+            <p className='my-4'>TypeScript</p>
           </div>
           <div className='shadow-md shadow-[#ba30e8] hover:scale-110 duration-500'>
             <img className='w-20 mx-auto' src={javascriptImg} alt="JavaScript icon" />
