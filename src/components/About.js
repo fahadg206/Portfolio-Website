@@ -1,4 +1,5 @@
 import React from "react";
+import Fahad from "../images/fahad.jpg";
 
 const About = () => {
   return (
@@ -18,18 +19,29 @@ const About = () => {
               Hi, I'm Fahad, nice to meet you. Please take a look around!
             </p>
           </div>
-          <div>
-            <p className="sm: my-[30px]">
+          <div className="flex flex-col items-center ">
+            <img
+              className="w-[200px] h-[200px] md:w-[350px] md:h-[350px] rounded-xl"
+              src={Fahad}
+              alt="headshot"
+            />
+            <p className="sm: my-[30px] indent-7">
               I'm Fahad Guled, a Full-Stack Developer. In mid-2021, I made a
               bold move, transitioning into tech and embarking on a self-taught
               coding journey. My passion for tech and a desire to push my limits
               fueled this transition. Along the way, I've honed the ability to
               swiftly grasp new concepts, applying them to real-world apps. I've
-              also embraced the importance of enjoying the learning process. But
-              that's not all – my experience with Fantasy Pulse, a substantial
-              app, has been instrumental in shaping me into the developer I am
-              today. This is just the beginning of my software engineering
-              journey! 🚀
+              also embraced the importance of enjoying the learning process.{" "}
+              <br />
+              <p className="sm: my-[30px] indent-7">
+                But that's not all – my experience with Fantasy Pulse, a
+                substantial app, has been instrumental in shaping me into the
+                developer I am today. I've gained valuable real-world experience
+                by actively addressing user-submitted bugs to optimize user
+                engagement, & leading the creation of a dynamic sports-tech
+                application currently serving over 500 users! This is just the
+                beginning of my software engineering journey! 🚀
+              </p>
             </p>
           </div>
         </div>
