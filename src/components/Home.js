@@ -12,10 +12,10 @@ const Home = () => {
           Fahad Guled
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Front-End Developer.
+          I'm a Full-Stack Developer.
         </h2>
         <p className="text-[#ccd6f6] py-4 max-w-[700px]">
-          I'm a Front-End Developer specializing in building fully responsive
+          I'm a Full-Stack Developer specializing in building fully responsive
           web applications.
         </p>
         <div>

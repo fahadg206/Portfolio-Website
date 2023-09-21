@@ -20,15 +20,16 @@ const About = () => {
           </div>
           <div>
             <p className="sm: my-[30px]">
-              My name is Fahad Guled, and I am a Front-End Developer. I decided
-              to transition into tech and teach myself how to code in mid 2021.
-              I made that transition because I had a strong interest in tech and
-              I also wanted to challenge myself. During this journey, I've had
-              the ability to quickly learn new concepts and apply them to
-              building real-world applications. I also learned how important it
-              was to enjoy the journey while learning. The road does not end
-              here as this is just the beginning to my software engineering
-              career!
+              I'm Fahad Guled, a Full-Stack Developer. In mid-2021, I made a
+              bold move, transitioning into tech and embarking on a self-taught
+              coding journey. My passion for tech and a desire to push my limits
+              fueled this transition. Along the way, I've honed the ability to
+              swiftly grasp new concepts, applying them to real-world apps. I've
+              also embraced the importance of enjoying the learning process. But
+              that's not all – my experience with Fantasy Pulse, a substantial
+              app, has been instrumental in shaping me into the developer I am
+              today. This is just the beginning of my software engineering
+              journey! 🚀
             </p>
           </div>
         </div>
